@@ -1,1 +1,38 @@
-/* Your CSS here. */
+.outer {
+  height: 800px;
+  width: 1000px;
+  background-color: #555555;
+  margin: 0 auto;
+  
+}
+
+.inner {
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.inner img {
+    width: 300px;
+    height: auto;
+}
+
+.inner h1 {
+    font-size: 35px;
+    color: white;
+}
+
+.inner .email {
+    font-style: italic; 
+    color: white;
+}
+
+.inner a {
+    font-size: 20px;
+}
+
+.inner .description {
+    font-size: 18px;
+    text-align: left; 
+    color: white;
+}
